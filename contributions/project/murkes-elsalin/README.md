@@ -15,7 +15,7 @@ Elsa Linnéusson (elsalin@kth.se)
 Project
 
 ## Description
-We are building a library website with Next.js/React (TypeScript), backed by a database in firebase for 
+We are using a library website with Next.js/React (TypeScript), backed by a database in firebase for 
 catalog and user data. Core features include book/media search and catalog browsing, user accounts and 
 loan/reservation status. In the future an admin interface for managing the catalog is planned.
 
