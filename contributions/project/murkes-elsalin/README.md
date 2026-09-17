@@ -5,7 +5,7 @@ DevOps pipeline for library React application
 
 ## Names and KTH ID
 
-Felicia Murkes (murkes@kth.se)
+Felicia Murkes (murkes@kth.se) <br>
 Elsa Linnéusson (elsalin@kth.se)
 
 ## Deadline
